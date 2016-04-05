@@ -12,4 +12,4 @@ node_modules
 
 #忽略私钥#
 
-private.pem
+./path/private.pem
