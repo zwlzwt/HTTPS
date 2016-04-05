@@ -1,4 +1,5 @@
 ### Node ###
+
 # Logs
 logs
 *.log
@@ -8,3 +9,7 @@ npm-debug.log*
 #忽略 node_modules
 
 node_modules
+
+#忽略私钥#
+
+private.pem
